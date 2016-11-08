@@ -1,0 +1,94 @@
+[
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 854,
+  "remove": 12,
+  "text": "(in ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1028,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1215,
+  "remove": 14,
+  "text": "d",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1371,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1406,
+  "remove": 10,
+  "text": "t",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1427,
+  "remove": 3,
+  "text": " ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1507,
+  "remove": 14,
+  "text": "d",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1652,
+  "remove": 1,
+  "text": "(w",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1666,
+  "remove": 1,
+  "text": ": ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1682,
+  "remove": 10,
+  "text": "r",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 1968,
+  "text": "let ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 2024,
+  "text": "let ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 2175,
+  "remove": 1,
+  "text": "(f",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 2178,
+  "remove": 6,
+  "text": " ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 2228,
+  "remove": 7,
+  "text": "y",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift",
+  "offset": 2281,
+  "remove": 15,
+  "text": "n",
+ }
+]

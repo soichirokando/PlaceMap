@@ -1,0 +1,61 @@
+[
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 366,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 440,
+  "remove": 8,
+  "text": "UIApplicationLaunchOptionsKey",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 452,
+  "remove": 7,
+  "text": "y",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 729,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 797,
+  "remove": 15,
+  "text": "y",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 867,
+  "remove": 22,
+  "text": "o",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 1017,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 1535,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 1973,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 2204,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift",
+  "offset": 2470,
+  "text": "_ ",
+ }
+]

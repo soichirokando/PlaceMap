@@ -1,0 +1,32 @@
+[
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMapTests/PlaceMapTests.swift",
+  "offset": 1042,
+  "remove": 6,
+  "text": "e",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMapTests/PlaceMapTests.swift",
+  "offset": 1105,
+  "remove": 3,
+  "text": "i",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMapTests/PlaceMapTests.swift",
+  "offset": 1110,
+  "remove": 3,
+  "text": "n ",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMapTests/PlaceMapTests.swift",
+  "offset": 1115,
+  "remove": 4,
+  "text": " ..",
+ },
+ {
+  "file": "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMapTests/PlaceMapTests.swift",
+  "offset": 1125,
+  "remove": 7,
+  "text": " ",
+ }
+]
