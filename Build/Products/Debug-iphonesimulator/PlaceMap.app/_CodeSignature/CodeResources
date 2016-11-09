@@ -8,7 +8,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C8FtREj8CDI3a6zYneqFhEPAyvg=
+			skuVmm97C4IbhKmBQhhXuDQ74Bs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -26,7 +26,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iEMNMZ3Y7+FgcVqKSw/BQbFGZQ0=
+			YWDSAZ51oNxQql2ogMSplUFxj+E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -35,7 +35,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w/aXg76Xv/5feP1baSQ24i5+LIQ=
+			GcmEtqo/HSPNXmS+W3S6I+9Zwgo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -44,7 +44,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			udW96E7zCyuGuu36Wbji/Dj4Ihg=
+			PuUz0h/I6BS9vSpkX0Db6JXDmJw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -53,7 +53,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			05m99GM2YpV232+3f6KDpoyI/6M=
+			1LFhGW9WnD2NlFp5vcI99HlUjNM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -62,7 +62,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pwzaQQVtP+RyDjGxcUL3x9Hlj/U=
+			ZRLNO7GBz9H46qCRCkUC6031Th8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oHwjbClm3OVSi86+Py1vXPm6fHI=
+			jtNRkE1Rqr6gEarbIIj0FSkrUzw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -395,7 +395,7 @@
 		</data>
 		<key>PlugIns/PlaceMapTests.xctest/PlaceMapTests</key>
 		<data>
-		+AgCbNl+4Kfp96KTvl8ZW6ClPVU=
+		mVbIqL6r8gClcj6+EzD/AxM7VgM=
 		</data>
 		<key>PlugIns/PlaceMapTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -416,11 +416,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C8FtREj8CDI3a6zYneqFhEPAyvg=
+			skuVmm97C4IbhKmBQhhXuDQ74Bs=
 			</data>
 			<key>hash2</key>
 			<data>
-			gyubrkjJ48IUBiWusFIys9+GT4NMeZu8MuGvJOmLUsc=
+			OJH01wvquXkCKRzduHCjEeST67IQADdonWrNfyxUz4M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -442,11 +442,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iEMNMZ3Y7+FgcVqKSw/BQbFGZQ0=
+			YWDSAZ51oNxQql2ogMSplUFxj+E=
 			</data>
 			<key>hash2</key>
 			<data>
-			OifFLJmNV/BA4vqw+aNY9TJGfItq1w2z1uQGRmhj5YU=
+			5bHFTXti3vpLohKuP24fXWGZg9P7cdpIRNJ08MIvbxo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -455,11 +455,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w/aXg76Xv/5feP1baSQ24i5+LIQ=
+			GcmEtqo/HSPNXmS+W3S6I+9Zwgo=
 			</data>
 			<key>hash2</key>
 			<data>
-			6YNrjdphtzefVT1CQcBIfC31cgD1TCf0xLuiSCm0VgE=
+			3RmB67nmh9r78WdiIyNhyb55SOT8As3HS5wva43Qt1k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -468,11 +468,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			udW96E7zCyuGuu36Wbji/Dj4Ihg=
+			PuUz0h/I6BS9vSpkX0Db6JXDmJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			NpLNUgyE+omFdx8707NLikCfFpwZSFxjwcb6I0EdLnM=
+			XG03geuaxez5CXpwWxzqVI5/fWN54FaeUAEiycfdpCo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -481,11 +481,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			05m99GM2YpV232+3f6KDpoyI/6M=
+			1LFhGW9WnD2NlFp5vcI99HlUjNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			dtRDXgZ9jHTWfzIEvfxZuV7rOot8ZnopmN0JchKrDnM=
+			UORQ9PGjuGw7AHyfNmgtPDHNYFxP3qIHqdZbUkZJzXE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -494,11 +494,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pwzaQQVtP+RyDjGxcUL3x9Hlj/U=
+			ZRLNO7GBz9H46qCRCkUC6031Th8=
 			</data>
 			<key>hash2</key>
 			<data>
-			htRuU5lCwS1lgESFac4s3YlrfLzZfxBkQnDHfo9E8Eg=
+			H1aQ3NTsTUtpaSI+gPqE9ks9Qo+xtA/mzoihvMUgGsE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -507,11 +507,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oHwjbClm3OVSi86+Py1vXPm6fHI=
+			jtNRkE1Rqr6gEarbIIj0FSkrUzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			tDwIKQBCtnVK+98/hU77H57k4u3JFHrCFWAKK44t5KY=
+			tt089mdyoDp/6C8QWSnHQlwjdgQEesCylw6V873qlO4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1363,11 +1363,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+AgCbNl+4Kfp96KTvl8ZW6ClPVU=
+			mVbIqL6r8gClcj6+EzD/AxM7VgM=
 			</data>
 			<key>hash2</key>
 			<data>
-			djUs9lcbFhIoGdfm7RHX+Uk2S8C3R6bB/nMI1DU85gU=
+			Sb+ReOIOPONHMBISUd2GGtIyYAkIhrQnIsqUTY8TWtw=
 			</data>
 		</dict>
 		<key>PlugIns/PlaceMapTests.xctest/_CodeSignature/CodeResources</key>
