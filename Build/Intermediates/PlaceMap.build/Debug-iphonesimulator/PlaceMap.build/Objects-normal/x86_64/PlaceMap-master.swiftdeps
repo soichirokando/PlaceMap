@@ -1,8 +1,8 @@
 version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
-options: "5b040b1300749d0fbdcf9e9736e8c19e"
-build_time: [531898429, 405362000]
+options: "840ccf089c5bbf819724fd256a9b844d"
+build_time: [531977566, 544663000]
 inputs:
-  "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceDatabase.swift": [531897626, 0]
-  "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/MapDisplayViewController.swift": [531891585, 0]
-  "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/PlaceListViewController.swift": [531891585, 0]
-  "/Users/kando/Desktop/nri/iOS_Samples-master/iOS9_Primer/PlaceMap_Test/PlaceMap/AppDelegate.swift": [531895584, 0]
+  "/Users/kando/Desktop/nri/PlaceMap_Test/PlaceMap/PlaceDatabase.swift": [531897626, 0]
+  "/Users/kando/Desktop/nri/PlaceMap_Test/PlaceMap/MapDisplayViewController.swift": [531891585, 0]
+  "/Users/kando/Desktop/nri/PlaceMap_Test/PlaceMap/PlaceListViewController.swift": [531891585, 0]
+  "/Users/kando/Desktop/nri/PlaceMap_Test/PlaceMap/AppDelegate.swift": [531895584, 0]

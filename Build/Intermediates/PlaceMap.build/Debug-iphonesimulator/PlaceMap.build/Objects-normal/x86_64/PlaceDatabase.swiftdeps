@@ -15,8 +15,8 @@ depends-top-level:
 - !private "Dictionary"
 - "Array"
 - "String"
-- "NSObject"
 - !private "StringLiteralType"
+- "NSObject"
 depends-member:
 - ["Ps9AnyObject", "String"]
 - ["Ps9AnyObject", "init"]
