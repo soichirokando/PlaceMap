@@ -6,11 +6,11 @@ provides-nominal:
 provides-member:
 - ["C13PlaceMapTests13PlaceMapTests", ""]
 provides-dynamic-lookup:
-- "setUp"
 - "tearDown"
+- "setUp"
 depends-top-level:
-- "PlaceMapTests"
 - "XCTestCase"
+- "PlaceMapTests"
 depends-member:
 - !private ["Ps9AnyObject", "init"]
 - ["Ps9AnyObject", "setUp"]

@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.slather.yml</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
@@ -391,15 +395,15 @@
 		</data>
 		<key>PlugIns/PlaceMapTests.xctest/Info.plist</key>
 		<data>
-		bYIa0mr9g5m1Zdi/NsFYlYw5wYs=
+		6uHd6/6KvhJWXAIUWAP+9gfvLyQ=
 		</data>
 		<key>PlugIns/PlaceMapTests.xctest/PlaceMapTests</key>
 		<data>
-		mVbIqL6r8gClcj6+EzD/AxM7VgM=
+		3ThIJEKzizCoS2Xi/ivz3+OeypI=
 		</data>
 		<key>PlugIns/PlaceMapTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		eYIMwfPkmwg6f5nmwvHbgx8Hs6c=
+		R8Oe7VImBVjShzO53K+dcEgLZ9M=
 		</data>
 		<key>PlugIns/PlaceMapTests.xctest/libswiftRemoteMirror.dylib</key>
 		<data>
@@ -412,6 +416,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>.slather.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
@@ -1352,33 +1367,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bYIa0mr9g5m1Zdi/NsFYlYw5wYs=
+			6uHd6/6KvhJWXAIUWAP+9gfvLyQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			JIkjv6gaaJKUcpMf3EGNyMWEZW9BaWz7lEgWNF8yogI=
+			hjUYV7ZjC4joEai6vtsLEB2liSectFKdQrCsYIjbLoM=
 			</data>
 		</dict>
 		<key>PlugIns/PlaceMapTests.xctest/PlaceMapTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mVbIqL6r8gClcj6+EzD/AxM7VgM=
+			3ThIJEKzizCoS2Xi/ivz3+OeypI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sb+ReOIOPONHMBISUd2GGtIyYAkIhrQnIsqUTY8TWtw=
+			HqMnAlxwailLPDRX3xvESaJ0eIlvvOhDbldH+F9zeB8=
 			</data>
 		</dict>
 		<key>PlugIns/PlaceMapTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eYIMwfPkmwg6f5nmwvHbgx8Hs6c=
+			R8Oe7VImBVjShzO53K+dcEgLZ9M=
 			</data>
 			<key>hash2</key>
 			<data>
-			V6op1NZgyiFGwz4pMXIy/V5CJSjABCJUNNbdD+lltCs=
+			bT1k0IIREqnp6W96qvdawKMEty26FfGhuftxiXnVngI=
 			</data>
 		</dict>
 		<key>PlugIns/PlaceMapTests.xctest/libswiftRemoteMirror.dylib</key>

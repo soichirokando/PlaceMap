@@ -16,6 +16,7 @@
 		2BC86C1C1BC03BBC00A6C01A /* PlaceListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC86C1B1BC03BBC00A6C01A /* PlaceListViewController.swift */; };
 		2BC86C1E1BC03BD900A6C01A /* MapDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC86C1D1BC03BD900A6C01A /* MapDisplayViewController.swift */; };
 		2BC86C201BC03BF700A6C01A /* PlaceDatabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC86C1F1BC03BF700A6C01A /* PlaceDatabase.swift */; };
+		5FEE55911DD4227A007116BD /* .slather.yml in Resources */ = {isa = PBXBuildFile; fileRef = 5FEE55901DD4227A007116BD /* .slather.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2BC86C1B1BC03BBC00A6C01A /* PlaceListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceListViewController.swift; sourceTree = "<group>"; };
 		2BC86C1D1BC03BD900A6C01A /* MapDisplayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapDisplayViewController.swift; sourceTree = "<group>"; };
 		2BC86C1F1BC03BF700A6C01A /* PlaceDatabase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceDatabase.swift; sourceTree = "<group>"; };
+		5FEE55901DD4227A007116BD /* .slather.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = .slather.yml; path = PlaceMap/.slather.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		2BC86BFD1BC03B5500A6C01A = {
 			isa = PBXGroup;
 			children = (
+				5FEE55901DD4227A007116BD /* .slather.yml */,
 				2BC86C081BC03B5600A6C01A /* PlaceMap */,
 				2B433BF61BE2325F0049AFEB /* PlaceMapTests */,
 				2B433C041BE235060049AFEB /* PlaceMapUITests */,
@@ -210,7 +213,7 @@
 					};
 					2BC86C051BC03B5500A6C01A = {
 						CreatedOnToolsVersion = 7.0;
-						DevelopmentTeam = S5QJV4EMU4;
+						DevelopmentTeam = 5F3K45V997;
 						LastSwiftMigration = 0810;
 					};
 				};
@@ -255,6 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2BC86C141BC03B5600A6C01A /* LaunchScreen.storyboard in Resources */,
+				5FEE55911DD4227A007116BD /* .slather.yml in Resources */,
 				2BC86C111BC03B5600A6C01A /* Assets.xcassets in Resources */,
 				2BC86C0F1BC03B5600A6C01A /* Main.storyboard in Resources */,
 			);
@@ -405,6 +409,8 @@
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
+				GCC_INSTRUMENT_PROGRAM_FLOW_ARCS = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -449,6 +455,8 @@
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
+				GCC_INSTRUMENT_PROGRAM_FLOW_ARCS = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -469,6 +477,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 5F3K45V997;
 				INFOPLIST_FILE = PlaceMap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = msyk.net.PlaceMap;
@@ -482,6 +491,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 5F3K45V997;
 				INFOPLIST_FILE = PlaceMap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = msyk.net.PlaceMap;
