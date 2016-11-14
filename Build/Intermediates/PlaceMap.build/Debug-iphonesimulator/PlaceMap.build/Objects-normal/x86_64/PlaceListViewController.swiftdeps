@@ -6,28 +6,28 @@ provides-nominal:
 provides-member:
 - ["C8PlaceMap23PlaceListViewController", ""]
 provides-dynamic-lookup:
-- "viewDidLoad"
 - "didReceiveMemoryWarning"
-- "prepare"
-- "tableView"
-- "tableView"
 - "numberOfSections"
+- "tableView"
+- "tableView"
+- "viewDidLoad"
+- "prepare"
 depends-top-level:
+- !private "AppDelegate"
+- "PlaceListViewController"
+- !private "UnicodeScalarType"
 - "UITableView"
-- "UITableViewController"
-- "UIStoryboardSegue"
-- "Int"
 - !private "UIApplication"
+- !private "MapDisplayViewController"
+- "UITableViewController"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "UIStoryboardSegue"
 - !private "StringLiteralType"
 - !private "UINavigationController"
-- !private "AppDelegate"
-- !private "UnicodeScalarType"
-- "AssignmentPrecedence"
-- "IndexPath"
-- "CastingPrecedence"
-- "PlaceListViewController"
-- !private "MapDisplayViewController"
 - "UITableViewCell"
+- "Int"
+- "IndexPath"
 depends-member:
 - !private ["Ps9AnyObject", "UIApplication"]
 - !private ["Ps9AnyObject", "delegate"]
