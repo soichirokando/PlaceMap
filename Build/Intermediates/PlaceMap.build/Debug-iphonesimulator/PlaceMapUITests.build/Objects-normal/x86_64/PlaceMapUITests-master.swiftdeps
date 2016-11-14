@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "0429c00effb96bd0b1fc985e2fc91df0"
+build_time: [532418254, 299302000]
+inputs:
+  "/Users/kando/Desktop/nri/PlaceMap_Test/PlaceMapUITests/PlaceMapUITests.swift": [531977623, 0]
