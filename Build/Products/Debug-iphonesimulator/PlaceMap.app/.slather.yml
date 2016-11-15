@@ -1,0 +1,13 @@
+disabled_rules:
+- trailing_whitespace
+- nesting
+- force_cast
+
+excluded:
+- Pods/
+- Podfile
+- Podfile.lock
+- ./AppDelegare.swift
+- /Users/<kando/Desktop/nri/XCTest_swift/Carthage/Checkouts/Alamofire/>
+
+line_length: 300

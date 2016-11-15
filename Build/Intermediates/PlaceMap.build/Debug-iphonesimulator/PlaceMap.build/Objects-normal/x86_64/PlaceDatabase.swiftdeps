@@ -6,17 +6,17 @@ provides-nominal:
 provides-member:
 - ["C8PlaceMap13PlaceDatabase", ""]
 provides-dynamic-lookup:
-- "prefectureOf"
 - "places"
+- "prefectureOf"
 depends-top-level:
-- "AssignmentPrecedence"
-- !private "=="
-- "PlaceDatabase"
-- !private "Dictionary"
-- "Array"
-- "String"
-- !private "StringLiteralType"
 - "NSObject"
+- "Array"
+- "PlaceDatabase"
+- "AssignmentPrecedence"
+- "String"
+- !private "=="
+- !private "Dictionary"
+- !private "StringLiteralType"
 depends-member:
 - ["Ps9AnyObject", "String"]
 - ["Ps9AnyObject", "init"]
