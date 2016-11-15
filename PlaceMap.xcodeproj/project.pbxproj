@@ -16,6 +16,7 @@
 		2BC86C1C1BC03BBC00A6C01A /* PlaceListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC86C1B1BC03BBC00A6C01A /* PlaceListViewController.swift */; };
 		2BC86C1E1BC03BD900A6C01A /* MapDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC86C1D1BC03BD900A6C01A /* MapDisplayViewController.swift */; };
 		2BC86C201BC03BF700A6C01A /* PlaceDatabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC86C1F1BC03BF700A6C01A /* PlaceDatabase.swift */; };
+		5F5688BC1DDAA18200CE244D /* .swiftlint.yml in Resources */ = {isa = PBXBuildFile; fileRef = 5F5688BB1DDAA18200CE244D /* .swiftlint.yml */; };
 		5FEE55911DD4227A007116BD /* .slather.yml in Resources */ = {isa = PBXBuildFile; fileRef = 5FEE55901DD4227A007116BD /* .slather.yml */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +53,7 @@
 		2BC86C1B1BC03BBC00A6C01A /* PlaceListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceListViewController.swift; sourceTree = "<group>"; };
 		2BC86C1D1BC03BD900A6C01A /* MapDisplayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapDisplayViewController.swift; sourceTree = "<group>"; };
 		2BC86C1F1BC03BF700A6C01A /* PlaceDatabase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceDatabase.swift; sourceTree = "<group>"; };
+		5F5688BB1DDAA18200CE244D /* .swiftlint.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = .swiftlint.yml; sourceTree = "<group>"; };
 		5FEE55901DD4227A007116BD /* .slather.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = .slather.yml; path = PlaceMap/.slather.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				5FEE55901DD4227A007116BD /* .slather.yml */,
+				5F5688BB1DDAA18200CE244D /* .swiftlint.yml */,
 				2BC86C081BC03B5600A6C01A /* PlaceMap */,
 				2B433BF61BE2325F0049AFEB /* PlaceMapTests */,
 				2B433C041BE235060049AFEB /* PlaceMapUITests */,
@@ -258,6 +261,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F5688BC1DDAA18200CE244D /* .swiftlint.yml in Resources */,
 				2BC86C141BC03B5600A6C01A /* LaunchScreen.storyboard in Resources */,
 				5FEE55911DD4227A007116BD /* .slather.yml in Resources */,
 				2BC86C111BC03B5600A6C01A /* Assets.xcassets in Resources */,

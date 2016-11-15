@@ -6,7 +6,11 @@
 	<dict>
 		<key>.slather.yml</key>
 		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		+DAPlqunO15YTrgVmyyR5ZX9b/I=
+		</data>
+		<key>.swiftlint.yml</key>
+		<data>
+		+DAPlqunO15YTrgVmyyR5ZX9b/I=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
@@ -420,11 +424,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			+DAPlqunO15YTrgVmyyR5ZX9b/I=
 			</data>
 			<key>hash2</key>
 			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			ZUQ0EyNC7qCIfBbiwHOd3VLbjbAPa/zrVUtJYqJOHMM=
+			</data>
+		</dict>
+		<key>.swiftlint.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+DAPlqunO15YTrgVmyyR5ZX9b/I=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZUQ0EyNC7qCIfBbiwHOd3VLbjbAPa/zrVUtJYqJOHMM=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
